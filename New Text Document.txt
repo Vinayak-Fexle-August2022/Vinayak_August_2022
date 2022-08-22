@@ -1,0 +1,9 @@
+def fun1:
+	s1="Rahul"
+	s2="Gupta"
+	s3=s1+" "+s2
+	return s3
+
+
+result=fun1()
+print(result)
