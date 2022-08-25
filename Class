@@ -3,5 +3,9 @@ Public Class C1{
     int a=10;
     int b=20;
     c=a+b;
-  }
+    System.Debug("class File Of DevFeature2 branch");
+    System.Debug(a);
+    System.Debug(b);
+    System.Debug"Sum of a and b is:"+c);
+}
 }
