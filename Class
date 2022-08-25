@@ -1,7 +1,11 @@
 Public Class C1{
-  public Static void main{
+  public Static int main{
     int a=10;
     int b=20;
+    String str1='Hello';
+    String str2='Vinayak';
+    System.Debug(str1+str2);
     c=a+b;
+    return c;
   }
 }
