@@ -1,7 +1,17 @@
 Public Class C1{
-  public Static void main{
+  public Static int main{
     int a=10;
     int b=20;
+    String str1='Hello';
+    String str2='Vinayak';
+    System.Debug(str1+str2);
     c=a+b;
+    System.Debug("class File Of DevFeature2 branch");
+    System.Debug(a);
+    System.Debug(b);
+    System.Debug"Sum of a and b is:"+c);
+    return c;
   }
+}
+
 }
