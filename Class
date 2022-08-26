@@ -6,6 +6,12 @@ Public Class C1{
     String str2='Vinayak';
     System.Debug(str1+str2);
     c=a+b;
+    System.Debug("class File Of DevFeature2 branch");
+    System.Debug(a);
+    System.Debug(b);
+    System.Debug"Sum of a and b is:"+c);
     return c;
   }
+}
+
 }
